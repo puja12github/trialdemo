@@ -1,0 +1,69 @@
+1 Which of the following option leads to the portability and security of Java?
+a.Bytecode is executed by JVM
+b.The applet makes the Java code secure and portable
+c.Use of exception handling
+d.Dynamic binding between objects
+ans a
+
+2 Which of the following is not a Java features?
+a.Dynamic
+b.Architecture Neutral
+c.Use of pointers
+d.Object-oriented
+ans-c
+
+3.What is the return type of the hashCode() method in the Object class?
+a.Object
+b.int
+c.long
+d.void
+ans b
+
+4.Which method of the Class.class is used to determine the name of a class represented by the class object as a String?
+a.getClass()
+b.intern()
+c.getName()
+d.toString()
+ans c
+
+5.In character stream I/O, a single read/write operation performs _____.
+a.Two bytes read/write at a time.
+b.Eight bytes read/write at a time.
+c.One byte read/write at a time.
+d.Five bytes read/ write at a time.
+ans a
+
+6 What is the default encoding for an OutputStreamWriter?
+a.UTF-8
+b.Default encoding of the host platform
+c.UTF-12
+d.None of the above
+ans b
+
+7.In which process, a local variable has the same name as one of the instance variables?
+a.Serialization
+b.Variable Shadowing
+c.Abstraction
+d.Multi-threading
+ans b
+
+8.Which of the following is true about the anonymous inner class?
+a.It has only methods
+b.Objects can't be created
+c.It has a fixed class name
+d.It has no class name
+ans d
+
+9.Which package contains the Random class?
+a.java.util package
+b.java.lang package
+c.java.awt package
+d.java.io package
+ans a
+
+10.If three threads trying to share a single object at the same time, which condition will arise in this scenario?
+a.Time-Lapse
+b.Critical situation
+c.Race condition
+d.Recursion
+ans a
